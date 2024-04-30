@@ -1,0 +1,14 @@
+bcrypt
+contourpy
+cycler
+fonttools
+kiwisolver
+matplotlib
+numpy
+opencv-python
+packaging
+pillow
+pycryptodome
+pyparsing
+python-dateutil
+six
